@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimdier
+- 👋 I am @jimdier
 - 👀 I like Roller Derby, Hamburgers and The Clash
 - 🌱 Learning the basics of bash and preparing to learn more about coding
 - 📫 jimdier@gmail.com
